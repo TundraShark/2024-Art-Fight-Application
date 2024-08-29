@@ -1,4 +1,4 @@
-# 2024-Art-Fight-Application
+# 2024 Art Fight Application
 
 Here are some websites I've created
 
